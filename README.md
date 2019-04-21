@@ -4,7 +4,7 @@ The API used for local weather is 'https://darksky.net/';
 Compared city weather API used is 'https://openweathermap.org/'.
 
  <div align="center">
-     <img src="/weatherapp.png" width="400px"</img> 
+     <img src="/public/weatherapp.png" width="400px"</img> 
  </div>
 
 
