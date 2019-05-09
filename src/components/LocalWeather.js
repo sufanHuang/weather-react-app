@@ -1,6 +1,6 @@
 import React,{Component}from 'react';
 import './LocalWeather.css';
-import config from '../config.js'
+import config from '../settings/secrets.json'
 
 class LocalWeather extends Component {
 

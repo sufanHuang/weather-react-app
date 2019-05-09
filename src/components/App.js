@@ -3,8 +3,8 @@ import './App.css';
 import Weather from './Weather';
 import Form from './Form';
 import LocalWeather from './LocalWeather';
-import * as _ from 'lodash';
-import config from '../config.js'
+import * as _ from 'lodash'
+import config from '../settings/secrets.json'
 
 class App extends Component {
 
