@@ -6,7 +6,7 @@
  </div>
 
 
- preview:'https://sufan-weather-app.herokuapp.com/'.
+ Preview:'https://sufan-weather-app.herokuapp.com/'.
 This is a weather app created using React. I've used two weather APIs for this app to learn the differences of APIs with same functionalities.The API used for local weather is 'https://darksky.net/'; Compared city weather API used is 'https://openweathermap.org/'. 
 
 **Set Up**
