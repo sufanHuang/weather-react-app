@@ -1,16 +1,13 @@
 
-This is a simple weather app created using React. 
 
-The API used for local weather is 'https://darksky.net/';
-
-Compared city weather API used is 'https://openweathermap.org/'.
 
  <div align="center">
      <img src="/public/weatherapp.png" width="700px"</img> 
  </div>
 
 
-This project was bootstrapped with [Create React App].
+ preview:'https://sufan-weather-app.herokuapp.com/'.
+This is a weather app created using React. I've used two weather APIs for this app to learn the differences of APIs with same functionalities.The API used for local weather is 'https://darksky.net/'; Compared city weather API used is 'https://openweathermap.org/'. 
 
 **Set Up**
 1. git clone https://github.com/sufanHuang/weather-react-app.git
