@@ -4,7 +4,7 @@ import Weather from './Weather';
 import Form from './Form';
 import LocalWeather from './LocalWeather';
 import * as _ from 'lodash'
-import config from '../settings/secrets.json'
+import config from '../config.json'
 
 class App extends Component {
 
