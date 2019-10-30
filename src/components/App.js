@@ -22,7 +22,7 @@ class App extends Component {
     const city = event.target.city.value
     const country = event.target.country.value
     const API_KEY_1  = config.API_KEY_1
-    const url = `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=metric&APPID=${API_KEY_1}`
+    const url = `https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=metric&APPID=${API_KEY_1}`
 
     fetch(url)
       .then(resp => resp.json())
