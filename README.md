@@ -1,3 +1,4 @@
+See the app [Here](https://sufan-weather-app.herokuapp.com/).
 
 The tooling for this apps are: react, boostrap and apis. 
 The API used for local weather is 'https://darksky.net/';
@@ -5,9 +6,9 @@ Compared city weather API used is 'https://openweathermap.org/'.
 
 There are two reasons I used two apis in this simple app:
 1. To understand how different apis who share same functionality render data differently. 
-2. Gain more experience in handling apis keys and extra data.
+2. Gain more experience in handling api keys and extract data.
 
-The structure of the app is two tiers. App.js functions as the main component, Form.js
+The structure of the app is two tiers. App.js as the main component, Form.js
 and Weather.js are child components. 
 
 What I learned from making this app?
